@@ -5,6 +5,7 @@ Para una mejor organización se ha segmentado en tres carpetas
 ## Integrantes
 - Erick Mata
 - Anthony Luque
+- Beto Toro
 - Miguel Martelo
 
 ## Prototipes
