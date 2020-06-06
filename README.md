@@ -6,6 +6,7 @@ Para una mejor organización se ha segmentado en tres carpetas
 - Erick Mata
 - Anthony Luque
 - Beto Toro
+- Miguel Martelo
 
 ## Prototipes
 En esta carpeta se anexarán los prototipos del proyecto
