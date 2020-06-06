@@ -1,6 +1,6 @@
 # Proyecto Cohort-2 Team Zally
 
-# Topic - Coronavirus Charts Visualization 
+## Topic - Coronavirus Charts Visualization 
 
 Para una mejor organización se ha segmentado en tres carpetas
 
